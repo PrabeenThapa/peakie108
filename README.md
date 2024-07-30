@@ -6,7 +6,7 @@
 # 💫 About Me:<br><img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
   * I'm based in **Nepal**<br><br> ✉️  You can contact me at **[thapaprabin303@gmail.com](mailto:thapaprabin303@gmail.com)**<br><br> 🧠  I'm learning **Data Analysis & Machine Learning**<br><br>💬 Ask me about **UI/UX design,data analysis and machine learning.***<br><br> ⚡  I've seen every episode of Peaky Blinders over three times.<br><br>
 
-
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prabinthapa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prabinthapaKshetry) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabi.nthapa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pyntumX) 
 
